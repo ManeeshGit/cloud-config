@@ -6,3 +6,5 @@ spring:
       server:
         git:
           uri: https://github.com/ManeeshGit/cloud-config.git
+  application:
+    name: cloud-config
